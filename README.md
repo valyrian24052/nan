@@ -41,5 +41,3 @@
 
 </samp>
 </details>
-
-⭐️ From [TanZng](https://github.com/TanZng)
