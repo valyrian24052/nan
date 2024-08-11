@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://github.com/valyrian24052/valyrian24052/blob/main/hollor_knight3.gif" width="200"/>
 
 </p>
 
