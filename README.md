@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm Shashank.
-    <br>I am a passionate software engineer specializing in AI and machine learning..<br>
+    Hey, I'm Shashank. Nothing much, just existing.
+    <br>Oh, and I'm a software engineer who's into AI, if that matters.<br>
 
 </samp>
 
@@ -13,11 +13,11 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> Watch me Shine 🌟 </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://github.com/valyrian24052/valyrian24052/blob/main/enthusiast.gif" width="200"/>
 
 
 </samp>
